@@ -1,0 +1,7 @@
+POST /registerappapi/api/GetCategory HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:3333
+Content-Length: 16
+Content-Type: application/json
+
+{"categoryID":1}
